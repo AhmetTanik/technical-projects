@@ -4,7 +4,7 @@ This project is a **full‑stack web application** designed to streamline event 
 
 ## Overview
 
-In 2025 I developed an event management platform as part of a university initiative. The original system reduced administrative overhead by **40 %** thanks to automated scheduling, registration, and email notifications【423963862728788†L43-L50】. It also employed continuous integration and deployment (CI/CD) via GitHub Actions and deployed on Amazon Web Services (AWS) using EC2 and RDS【423963862728788†L51-L53】.
+In 2025 I developed an event management platform as part of a university initiative. The original system reduced administrative overhead by **40 %** thanks to automated scheduling, registration, and email notifications. It also employed continuous integration and deployment (CI/CD) via GitHub Actions and deployed on Amazon Web Services (AWS) using EC2 and RDS.
 
 This repository contains a minimal example demonstrating the core architecture without linking to actual AWS services. The client side is a single‑page React app, while the server side uses Express and Mongoose. The skeleton can be extended into a fully functional application.
 
