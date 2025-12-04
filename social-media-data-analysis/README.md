@@ -1,10 +1,10 @@
 # Social Media Data Analysis & ML Model
 
-This project demonstrates how to collect, preprocess, and analyse engagement metrics from social media posts (such as TikTok videos) and build a regression model to predict future performance. The goal of the original project was to provide data‑driven recommendations that increased average views per post by **20 %**【423963862728788†L65-L66】.
+This project demonstrates how to collect, preprocess, and analyse engagement metrics from social media posts (such as TikTok videos) and build a regression model to predict future performance. The goal of the original project was to provide data‑driven recommendations that increased average views per post by **20 %**.
 
 ## Overview
 
-In 2024 I analysed metrics from two TikTok channels with over **160 k followers** to understand how posting time, hashtags, and content type influence engagement【423963862728788†L57-L63】. Using Python libraries like `pandas` and `scikit‑learn`, I engineered features, trained multiple regression models, and achieved an **R² score of 0.82** on the best model【423963862728788†L61-L63】.
+In 2024 I analysed metrics from two TikTok channels with over **160 k followers** to understand how posting time, hashtags, and content type influence engagement. Using Python libraries like `pandas` and `scikit‑learn`, I engineered features, trained multiple regression models, and achieved an **R² score of 0.82** on the best model.
 
 This repository provides a simplified example you can run locally. It includes a small synthetic dataset, a Python script to train and evaluate a regression model, and instructions for extending the analysis.
 
