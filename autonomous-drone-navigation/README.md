@@ -9,7 +9,7 @@ In 2024 I designed and implemented an autonomous drone navigation system while s
 - **Sensor fusion** combining IMU, GPS, and LiDAR/sonar data to estimate the drone's pose.
 - **Obstacle detection and avoidance** using simple geometric algorithms and potential fields.
 - **Path planning** via a basic A* search algorithm for way‑point generation.
-- A **30 % reduction in flight path deviation** during obstacle‑dense missions compared with a baseline controller【423963862728788†L29-L35】.
+- A **30 % reduction in flight path deviation** during obstacle‑dense missions compared with a baseline controller.
 - Comprehensive documentation and version control using Git.
 
 This repository contains a minimal, self‑contained skeleton illustrating the architecture of the navigation system. The code is meant for educational purposes and does not represent a production‑ready controller. It can be extended to work with ROS and real hardware.
