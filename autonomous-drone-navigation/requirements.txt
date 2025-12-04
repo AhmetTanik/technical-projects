@@ -1,0 +1,5 @@
+# Example requirements for the autonomous drone navigation project.
+# These are optional; the skeleton does not strictly depend on them.
+numpy
+scipy
+pytest
